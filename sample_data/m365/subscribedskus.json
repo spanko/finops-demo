@@ -1,0 +1,54 @@
+{
+  "value": [
+    {
+      "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df",
+      "skuPartNumber": "ENTERPRISEPREMIUM",
+      "prepaidUnits": {
+        "enabled": 200,
+        "suspended": 0,
+        "warning": 0
+      },
+      "consumedUnits": 180
+    },
+    {
+      "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900",
+      "skuPartNumber": "ENTERPRISEPACK",
+      "prepaidUnits": {
+        "enabled": 300,
+        "suspended": 0,
+        "warning": 0
+      },
+      "consumedUnits": 260
+    },
+    {
+      "skuId": "66b55226-6b4f-492c-910c-a3b7a3c9d993",
+      "skuPartNumber": "DESKLESSPACK",
+      "prepaidUnits": {
+        "enabled": 50,
+        "suspended": 0,
+        "warning": 0
+      },
+      "consumedUnits": 40
+    },
+    {
+      "skuId": "639dec6b-bb19-468b-871c-c5c441c4b0cb",
+      "skuPartNumber": "Microsoft_365_Copilot",
+      "prepaidUnits": {
+        "enabled": 100,
+        "suspended": 0,
+        "warning": 0
+      },
+      "consumedUnits": 80
+    },
+    {
+      "skuId": "0dab259f-bf13-4952-b7f8-7db8f131b28d",
+      "skuPartNumber": "MCOPSTNC",
+      "prepaidUnits": {
+        "enabled": 50,
+        "suspended": 0,
+        "warning": 0
+      },
+      "consumedUnits": 45
+    }
+  ]
+}

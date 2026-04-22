@@ -1,0 +1,49 @@
+{
+  "value": [
+    {
+      "id": "/providers/Microsoft.Capacity/reservationOrders/ord-001/reservations/ri-healthy-001",
+      "reservationOrderId": "ord-001",
+      "displayName": "Healthy RI",
+      "skuName": "Standard_D4s_v5",
+      "location": "eastus",
+      "quantity": 10,
+      "term": "P1Y",
+      "scope": "Shared",
+      "scopeId": "11111111-1111-1111-1111-111111111111",
+      "appliedScopes": [],
+      "purchaseDate": "2025-10-19",
+      "expirationDate": "2026-10-19",
+      "effectiveCostMonthlyUsd": 2500.0
+    },
+    {
+      "id": "/providers/Microsoft.Capacity/reservationOrders/ord-001/reservations/ri-rescope-001",
+      "reservationOrderId": "ord-001",
+      "displayName": "Rescope RI",
+      "skuName": "Standard_D4s_v5",
+      "location": "eastus",
+      "quantity": 10,
+      "term": "P1Y",
+      "scope": "Single",
+      "scopeId": "11111111-1111-1111-1111-111111111111",
+      "appliedScopes": [],
+      "purchaseDate": "2025-10-19",
+      "expirationDate": "2026-10-19",
+      "effectiveCostMonthlyUsd": 2500.0
+    },
+    {
+      "id": "/providers/Microsoft.Capacity/reservationOrders/ord-001/reservations/ri-exchange-001",
+      "reservationOrderId": "ord-001",
+      "displayName": "Exchange RI",
+      "skuName": "Standard_D4s_v5",
+      "location": "eastus",
+      "quantity": 10,
+      "term": "P1Y",
+      "scope": "Shared",
+      "scopeId": "11111111-1111-1111-1111-111111111111",
+      "appliedScopes": [],
+      "purchaseDate": "2025-10-19",
+      "expirationDate": "2026-10-19",
+      "effectiveCostMonthlyUsd": 2500.0
+    }
+  ]
+}

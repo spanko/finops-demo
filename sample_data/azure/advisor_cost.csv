@@ -1,0 +1,2 @@
+recommendationId,resourceId,recommendationType,impact,annualSavingsUsd,shortDescription
+adv-001,/subscriptions/sub/rg/demo/vm/v1,Shutdown,High,3600,Shut down idle VM

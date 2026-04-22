@@ -1,0 +1,1354 @@
+{
+  "value": [
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-17",
+      "utilizationPercentage": 91.05842202550903
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-18",
+      "utilizationPercentage": 95.17236765233572
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-19",
+      "utilizationPercentage": 90.45032323053938
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-20",
+      "utilizationPercentage": 94.92657453433499
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-21",
+      "utilizationPercentage": 95.87171943517112
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-22",
+      "utilizationPercentage": 87.06597686572648
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-23",
+      "utilizationPercentage": 95.82034243188562
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-24",
+      "utilizationPercentage": 91.39898700755877
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-25",
+      "utilizationPercentage": 89.29990766026737
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-26",
+      "utilizationPercentage": 92.14541273142972
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-27",
+      "utilizationPercentage": 89.80809508349874
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-28",
+      "utilizationPercentage": 88.5024040778656
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-29",
+      "utilizationPercentage": 88.57357352690569
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-30",
+      "utilizationPercentage": 93.02020276466777
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-01-31",
+      "utilizationPercentage": 95.16955075549559
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-01",
+      "utilizationPercentage": 93.61109642910557
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-02",
+      "utilizationPercentage": 91.14613685095107
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-03",
+      "utilizationPercentage": 90.30224765243051
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-04",
+      "utilizationPercentage": 88.13338697563981
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-05",
+      "utilizationPercentage": 93.75229426315536
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-06",
+      "utilizationPercentage": 91.7902116336453
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-07",
+      "utilizationPercentage": 92.90790898809182
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-08",
+      "utilizationPercentage": 93.47259234140553
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-09",
+      "utilizationPercentage": 91.108992071632
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-10",
+      "utilizationPercentage": 89.4367030742127
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-11",
+      "utilizationPercentage": 88.27885114949096
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-12",
+      "utilizationPercentage": 92.92347660371134
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-13",
+      "utilizationPercentage": 88.3472404800013
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-14",
+      "utilizationPercentage": 92.12642816001109
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-15",
+      "utilizationPercentage": 95.90797671469072
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-16",
+      "utilizationPercentage": 88.4686510008508
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-17",
+      "utilizationPercentage": 88.66341366307881
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-18",
+      "utilizationPercentage": 96.22446870655101
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-19",
+      "utilizationPercentage": 92.16640692638147
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-20",
+      "utilizationPercentage": 91.05456316466314
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-21",
+      "utilizationPercentage": 96.69243687120115
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-22",
+      "utilizationPercentage": 93.37622706730814
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-23",
+      "utilizationPercentage": 95.78508982953036
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-24",
+      "utilizationPercentage": 94.27974315447696
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-25",
+      "utilizationPercentage": 95.21303310122002
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-26",
+      "utilizationPercentage": 96.47253868622694
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-27",
+      "utilizationPercentage": 89.16593417891885
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-02-28",
+      "utilizationPercentage": 93.06525897925911
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-01",
+      "utilizationPercentage": 91.71413454914855
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-02",
+      "utilizationPercentage": 91.81668399055054
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-03",
+      "utilizationPercentage": 89.19363814818588
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-04",
+      "utilizationPercentage": 91.10766851908257
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-05",
+      "utilizationPercentage": 88.42712137062968
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-06",
+      "utilizationPercentage": 92.82646137628356
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-07",
+      "utilizationPercentage": 94.67490112646551
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-08",
+      "utilizationPercentage": 93.23211738911634
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-09",
+      "utilizationPercentage": 92.10804908458297
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-10",
+      "utilizationPercentage": 88.67721701593598
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-11",
+      "utilizationPercentage": 93.85591163804168
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-12",
+      "utilizationPercentage": 96.22351944844948
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-13",
+      "utilizationPercentage": 92.9653336249736
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-14",
+      "utilizationPercentage": 87.68842897041245
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-15",
+      "utilizationPercentage": 90.782113521208
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-16",
+      "utilizationPercentage": 88.32213198457436
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-17",
+      "utilizationPercentage": 87.16562627273414
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-18",
+      "utilizationPercentage": 92.22711343017158
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-19",
+      "utilizationPercentage": 96.09339223089512
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-20",
+      "utilizationPercentage": 93.84367831198834
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-21",
+      "utilizationPercentage": 95.26514185589262
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-22",
+      "utilizationPercentage": 93.05511017861207
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-23",
+      "utilizationPercentage": 88.7742218431733
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-24",
+      "utilizationPercentage": 96.01608218362541
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-25",
+      "utilizationPercentage": 92.99813796870683
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-26",
+      "utilizationPercentage": 95.77752637742968
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-27",
+      "utilizationPercentage": 92.31429950172672
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-28",
+      "utilizationPercentage": 94.52383151035878
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-29",
+      "utilizationPercentage": 87.93189965801245
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-30",
+      "utilizationPercentage": 93.59392611163324
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-03-31",
+      "utilizationPercentage": 96.01984755720754
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-01",
+      "utilizationPercentage": 92.39285986330522
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-02",
+      "utilizationPercentage": 87.01200205810137
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-03",
+      "utilizationPercentage": 96.3773484062307
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-04",
+      "utilizationPercentage": 93.78559360274909
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-05",
+      "utilizationPercentage": 91.31496825233431
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-06",
+      "utilizationPercentage": 91.20684020000527
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-07",
+      "utilizationPercentage": 95.74824300732004
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-08",
+      "utilizationPercentage": 93.97642807139579
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-09",
+      "utilizationPercentage": 91.28956264477121
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-10",
+      "utilizationPercentage": 96.38421627896281
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-11",
+      "utilizationPercentage": 91.82123447876837
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-12",
+      "utilizationPercentage": 94.68671671906385
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-13",
+      "utilizationPercentage": 90.50517813779771
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-14",
+      "utilizationPercentage": 95.04621038894311
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-15",
+      "utilizationPercentage": 96.07858876597429
+    },
+    {
+      "reservationId": "ri-healthy-001",
+      "usageDate": "2026-04-16",
+      "utilizationPercentage": 95.37190514033344
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-17",
+      "utilizationPercentage": 55.76120816899217
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-18",
+      "utilizationPercentage": 54.25489396854364
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-19",
+      "utilizationPercentage": 52.54518028178373
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-20",
+      "utilizationPercentage": 57.658588903584544
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-21",
+      "utilizationPercentage": 59.10085356675485
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-22",
+      "utilizationPercentage": 50.838175809626776
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-23",
+      "utilizationPercentage": 55.982923498508804
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-24",
+      "utilizationPercentage": 55.43731021945526
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-25",
+      "utilizationPercentage": 52.578049763219134
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-26",
+      "utilizationPercentage": 50.0546945414803
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-27",
+      "utilizationPercentage": 57.43645681362022
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-28",
+      "utilizationPercentage": 50.07114079430603
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-29",
+      "utilizationPercentage": 55.22540629787956
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-30",
+      "utilizationPercentage": 55.197618455230746
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-01-31",
+      "utilizationPercentage": 53.75029881704942
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-01",
+      "utilizationPercentage": 52.05418696163347
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-02",
+      "utilizationPercentage": 58.042871528558564
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-03",
+      "utilizationPercentage": 54.08845077173932
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-04",
+      "utilizationPercentage": 51.06583216449459
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-05",
+      "utilizationPercentage": 54.2607158907932
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-06",
+      "utilizationPercentage": 55.85370184880739
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-07",
+      "utilizationPercentage": 52.61302894763477
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-08",
+      "utilizationPercentage": 55.361048908797024
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-09",
+      "utilizationPercentage": 55.64670237642855
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-10",
+      "utilizationPercentage": 56.11880677011315
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-11",
+      "utilizationPercentage": 59.91798674170715
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-12",
+      "utilizationPercentage": 53.974541481954745
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-13",
+      "utilizationPercentage": 52.03693661192269
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-14",
+      "utilizationPercentage": 55.5210494834027
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-15",
+      "utilizationPercentage": 55.57562675196437
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-16",
+      "utilizationPercentage": 51.78719597832955
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-17",
+      "utilizationPercentage": 55.590938296534965
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-18",
+      "utilizationPercentage": 54.837601576281905
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-19",
+      "utilizationPercentage": 59.88508264024951
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-20",
+      "utilizationPercentage": 55.77651153090271
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-21",
+      "utilizationPercentage": 57.74194484244992
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-22",
+      "utilizationPercentage": 53.9812975179987
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-23",
+      "utilizationPercentage": 51.38068518452338
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-24",
+      "utilizationPercentage": 58.638305266148066
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-25",
+      "utilizationPercentage": 51.19085764496134
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-26",
+      "utilizationPercentage": 52.29771304477713
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-27",
+      "utilizationPercentage": 57.83109260345336
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-02-28",
+      "utilizationPercentage": 59.49245178414845
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-01",
+      "utilizationPercentage": 51.00278617549376
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-02",
+      "utilizationPercentage": 55.083435431164574
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-03",
+      "utilizationPercentage": 57.86081122893377
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-04",
+      "utilizationPercentage": 58.00853733350159
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-05",
+      "utilizationPercentage": 56.140253670294385
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-06",
+      "utilizationPercentage": 56.84564446708485
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-07",
+      "utilizationPercentage": 50.52052797084585
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-08",
+      "utilizationPercentage": 53.89103680585103
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-09",
+      "utilizationPercentage": 56.358766183651284
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-10",
+      "utilizationPercentage": 58.04369360887174
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-11",
+      "utilizationPercentage": 58.23255465517405
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-12",
+      "utilizationPercentage": 54.716686600883435
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-13",
+      "utilizationPercentage": 56.002454417599544
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-14",
+      "utilizationPercentage": 50.88140689314011
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-15",
+      "utilizationPercentage": 52.63091997964459
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-16",
+      "utilizationPercentage": 53.70835126042662
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-17",
+      "utilizationPercentage": 56.09028861207927
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-18",
+      "utilizationPercentage": 57.24494713428065
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-19",
+      "utilizationPercentage": 59.30684991065026
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-20",
+      "utilizationPercentage": 54.006448582855285
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-21",
+      "utilizationPercentage": 56.56175229854923
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-22",
+      "utilizationPercentage": 52.864692338675695
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-23",
+      "utilizationPercentage": 59.63529822211508
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-24",
+      "utilizationPercentage": 50.57463034583001
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-25",
+      "utilizationPercentage": 57.736084522323964
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-26",
+      "utilizationPercentage": 51.75271128418232
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-27",
+      "utilizationPercentage": 54.94368377618284
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-28",
+      "utilizationPercentage": 50.10710397375429
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-29",
+      "utilizationPercentage": 58.50567636317642
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-30",
+      "utilizationPercentage": 59.30758467345758
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-03-31",
+      "utilizationPercentage": 55.18153282150675
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-01",
+      "utilizationPercentage": 51.947464945436224
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-02",
+      "utilizationPercentage": 57.83959445353708
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-03",
+      "utilizationPercentage": 55.10547850398821
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-04",
+      "utilizationPercentage": 56.98449732599191
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-05",
+      "utilizationPercentage": 56.151899857035495
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-06",
+      "utilizationPercentage": 56.7402438101218
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-07",
+      "utilizationPercentage": 53.59739998275464
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-08",
+      "utilizationPercentage": 56.55019119384045
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-09",
+      "utilizationPercentage": 59.75645900945699
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-10",
+      "utilizationPercentage": 50.86842812574037
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-11",
+      "utilizationPercentage": 52.75936870125479
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-12",
+      "utilizationPercentage": 53.994336899602985
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-13",
+      "utilizationPercentage": 56.696620463963086
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-14",
+      "utilizationPercentage": 54.054509668505204
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-15",
+      "utilizationPercentage": 52.00310383124223
+    },
+    {
+      "reservationId": "ri-rescope-001",
+      "usageDate": "2026-04-16",
+      "utilizationPercentage": 50.15366522497874
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-17",
+      "utilizationPercentage": 32.0362192443473
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-18",
+      "utilizationPercentage": 34.19177421109124
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-19",
+      "utilizationPercentage": 30.49592653546436
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-20",
+      "utilizationPercentage": 32.261387097072955
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-21",
+      "utilizationPercentage": 30.59113866947658
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-22",
+      "utilizationPercentage": 30.829324152178707
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-23",
+      "utilizationPercentage": 28.474750888592574
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-24",
+      "utilizationPercentage": 33.15514879498689
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-25",
+      "utilizationPercentage": 27.262955129620686
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-26",
+      "utilizationPercentage": 34.63057139475086
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-27",
+      "utilizationPercentage": 29.547590086587803
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-28",
+      "utilizationPercentage": 29.03956469706496
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-29",
+      "utilizationPercentage": 25.04651451566126
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-30",
+      "utilizationPercentage": 26.75034786813964
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-01-31",
+      "utilizationPercentage": 30.06238096255548
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-01",
+      "utilizationPercentage": 30.58630712869659
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-02",
+      "utilizationPercentage": 30.031691662538933
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-03",
+      "utilizationPercentage": 28.399658944235405
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-04",
+      "utilizationPercentage": 26.17008997521864
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-05",
+      "utilizationPercentage": 30.13286687111179
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-06",
+      "utilizationPercentage": 27.57693386644967
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-07",
+      "utilizationPercentage": 30.37903389432634
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-08",
+      "utilizationPercentage": 32.93389257601603
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-09",
+      "utilizationPercentage": 27.501414916976678
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-10",
+      "utilizationPercentage": 29.42768640563305
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-11",
+      "utilizationPercentage": 28.770802808044003
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-12",
+      "utilizationPercentage": 29.83629895522946
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-13",
+      "utilizationPercentage": 27.432732564022636
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-14",
+      "utilizationPercentage": 28.396607634517455
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-15",
+      "utilizationPercentage": 32.755988050911455
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-16",
+      "utilizationPercentage": 31.81594673251513
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-17",
+      "utilizationPercentage": 33.965238227458784
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-18",
+      "utilizationPercentage": 33.62023279274633
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-19",
+      "utilizationPercentage": 29.81970162065836
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-20",
+      "utilizationPercentage": 27.578197648194003
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-21",
+      "utilizationPercentage": 28.82673245919211
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-22",
+      "utilizationPercentage": 32.886560186311456
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-23",
+      "utilizationPercentage": 27.203823229440523
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-24",
+      "utilizationPercentage": 32.01176101192311
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-25",
+      "utilizationPercentage": 33.00161393849035
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-26",
+      "utilizationPercentage": 29.124259721893495
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-27",
+      "utilizationPercentage": 28.530962654687777
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-02-28",
+      "utilizationPercentage": 30.356519073972343
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-01",
+      "utilizationPercentage": 32.008185523165544
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-02",
+      "utilizationPercentage": 27.633496913929104
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-03",
+      "utilizationPercentage": 27.87289582885872
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-04",
+      "utilizationPercentage": 28.98930636597409
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-05",
+      "utilizationPercentage": 32.487881319304904
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-06",
+      "utilizationPercentage": 28.41992877990222
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-07",
+      "utilizationPercentage": 30.545515040412266
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-08",
+      "utilizationPercentage": 26.784857472520727
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-09",
+      "utilizationPercentage": 28.138727795596267
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-10",
+      "utilizationPercentage": 27.185661337846238
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-11",
+      "utilizationPercentage": 30.737126191636605
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-12",
+      "utilizationPercentage": 26.827844526404
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-13",
+      "utilizationPercentage": 32.461562580101734
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-14",
+      "utilizationPercentage": 34.30255263372715
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-15",
+      "utilizationPercentage": 26.901674978360482
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-16",
+      "utilizationPercentage": 32.371122479413934
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-17",
+      "utilizationPercentage": 27.3486137193016
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-18",
+      "utilizationPercentage": 27.420565178449635
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-19",
+      "utilizationPercentage": 27.654053733257847
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-20",
+      "utilizationPercentage": 27.292075321284425
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-21",
+      "utilizationPercentage": 33.349404800660565
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-22",
+      "utilizationPercentage": 33.36334709961689
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-23",
+      "utilizationPercentage": 28.56027373343673
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-24",
+      "utilizationPercentage": 32.78938480516443
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-25",
+      "utilizationPercentage": 26.198784926547717
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-26",
+      "utilizationPercentage": 25.784875726387806
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-27",
+      "utilizationPercentage": 34.55779684062482
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-28",
+      "utilizationPercentage": 29.926648632722124
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-29",
+      "utilizationPercentage": 25.066236761528565
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-30",
+      "utilizationPercentage": 33.57089337270513
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-03-31",
+      "utilizationPercentage": 34.57993090467625
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-01",
+      "utilizationPercentage": 33.48010595755965
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-02",
+      "utilizationPercentage": 28.711965353836675
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-03",
+      "utilizationPercentage": 28.154169059719173
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-04",
+      "utilizationPercentage": 33.98121200392852
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-05",
+      "utilizationPercentage": 33.80987248547373
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-06",
+      "utilizationPercentage": 30.745193799493375
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-07",
+      "utilizationPercentage": 27.747330329627196
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-08",
+      "utilizationPercentage": 26.82871863129695
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-09",
+      "utilizationPercentage": 32.64262325435928
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-10",
+      "utilizationPercentage": 30.111336356421308
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-11",
+      "utilizationPercentage": 28.97879497871494
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-12",
+      "utilizationPercentage": 32.50169385795781
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-13",
+      "utilizationPercentage": 26.282459501486134
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-14",
+      "utilizationPercentage": 30.257354438250506
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-15",
+      "utilizationPercentage": 29.231758674854046
+    },
+    {
+      "reservationId": "ri-exchange-001",
+      "usageDate": "2026-04-16",
+      "utilizationPercentage": 34.39654421365022
+    }
+  ]
+}

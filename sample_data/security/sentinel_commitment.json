@@ -1,0 +1,11 @@
+{
+  "value": [
+    {
+      "workspaceId": "ws-001",
+      "workspaceName": "acme-sec-ws",
+      "pricingTier": "CapacityReservation",
+      "capacityReservationLevel": 100,
+      "dailyCapGb": null
+    }
+  ]
+}

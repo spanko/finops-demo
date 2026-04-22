@@ -1,0 +1,43 @@
+{
+  "value": [
+    {
+      "subscriptionId": "11111111-1111-1111-1111-111111111111",
+      "name": "VirtualMachines",
+      "pricingTier": "Standard",
+      "subPlan": "P2",
+      "freeTrialRemainingTime": "0"
+    },
+    {
+      "subscriptionId": "11111111-1111-1111-1111-111111111111",
+      "name": "SqlServers",
+      "pricingTier": "Standard",
+      "subPlan": ""
+    },
+    {
+      "subscriptionId": "22222222-2222-2222-2222-222222222222",
+      "name": "VirtualMachines",
+      "pricingTier": "Standard",
+      "subPlan": "P2",
+      "freeTrialRemainingTime": "0"
+    },
+    {
+      "subscriptionId": "22222222-2222-2222-2222-222222222222",
+      "name": "SqlServers",
+      "pricingTier": "Standard",
+      "subPlan": ""
+    },
+    {
+      "subscriptionId": "33333333-3333-3333-3333-333333333333",
+      "name": "VirtualMachines",
+      "pricingTier": "Standard",
+      "subPlan": "P2",
+      "freeTrialRemainingTime": "0"
+    },
+    {
+      "subscriptionId": "33333333-3333-3333-3333-333333333333",
+      "name": "SqlServers",
+      "pricingTier": "Standard",
+      "subPlan": ""
+    }
+  ]
+}
